@@ -1,0 +1,32 @@
+{
+  "name": "Chango",
+  "designer": "Fontstage",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 20879,
+  "fonts": [
+    {
+      "name": "Chango",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Chango-Regular-TTF.ttf",
+      "postScriptName": "Chango-Regular",
+      "fullName": "Chango-Regular",
+      "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Chango\""
+    },
+    {
+      "name": "Chango",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Chango-Regular.ttf",
+      "postScriptName": "Chango-Regular",
+      "fullName": "Chango Regular",
+      "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Chango\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-12-13"
+}
